@@ -16,4 +16,5 @@ def guess_password(real):
 
             print(guess, attempts)
 
+#pass the password to be cracked here
 print(guess_password('A1k'))
